@@ -1249,7 +1249,7 @@ sticky {
 }
 
 .sticky .navbar .navbar-nav .nav-item a {
-  color: #222;
+  color: #fff;
 }
 
 .sticky .navbar .navbar-nav .nav-item a::before {
