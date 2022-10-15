@@ -1236,6 +1236,12 @@ sticky {
   padding: 10px 0;
 }
 
+@media only screen and (min-width: 769px) and (max-width: 1400px) {
+  .sticky .navbar {
+    padding: 10px 0;
+  }
+}
+
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .sticky .navbar {
     padding: 10px 0;
@@ -1266,6 +1272,12 @@ sticky {
   position: relative;
   transition: all 0.3s ease-out 0s;
   padding: 20px 0;
+}
+
+@media only screen and (min-width: 769px) and (max-width: 1400px) {
+  .navbar {
+    padding: 17px 0;
+  }
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
